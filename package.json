@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Jaynarol <jaynarol@gmail.com>",
+  "author": "Jaynarol",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
